@@ -1,3 +1,3 @@
-![Starry-Sky](gif/starry-sky.gif)
+![Starry-Sky](gifs/starry-sky.gif)
 
-![Water-Drops](gif/water-drops.gif)
+![Water-Drops](gifs/water-drops.gif)
